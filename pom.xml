@@ -22,7 +22,7 @@
         <dependency>
             <groupId>com.oracle.bedrock</groupId>
             <artifactId>bedrock-runtime-maven</artifactId>
-            <version>7.1.2</version> <!-- Updated version -->
+            <version>7.0.2</version> <!-- Updated version -->
         </dependency>
         
         <dependency>
